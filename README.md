@@ -8,3 +8,8 @@ $ cd crack-fb
 $ ls
 
 $ python paid.py
+
+
+Don't use for now 
+Updating processing
+Love you all
